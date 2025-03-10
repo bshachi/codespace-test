@@ -23,7 +23,6 @@ def htop():
     <html>
     <head><title>System Monitor</title></head>
     <body>
-        <h3>Name: Anushka Patil</h3>
         <h3>User: {username}</h3>
         <h3>Server Time (IST): {server_time}</h3>
         <h3>TOP output:</h3>
